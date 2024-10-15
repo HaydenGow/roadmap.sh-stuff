@@ -1,5 +1,8 @@
 # roadmap.sh-stuff
-<a href="https://roadmap.sh/projects/single-page-cv">Single Page CV</a>
+Projectes completed
+
+<a href="https://roadmap.sh/projects/single-page-cv">Single Page CV</a>,
+<a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
 
 All completed front-end projects from roadmap.sh
 
